@@ -88,17 +88,6 @@ export const projects = [
     icon: <FaReact size={24} className="text-accent-1" />,
   },
   {
-    title: "WealthWise",
-    tech: ["React JS", "Node JS", "Firebase", "API Integration"],
-    description:
-      "Enhanced financial literacy and user engagement by 40% through an interactive fintech platform integrating gamification. Developed an engaging React UI with gamified elements ensuring smooth user interactions.",
-    date: "Jan 2025 – Present",
-    githubLink: "https://github.com/FreedomFreak/WealthWise",
-    liveLink: "https://wealthwisefinance.vercel.app/",
-    category: "Fintech",
-    icon: <SiFirebase size={24} className="text-accent-1" />,
-  },
-  {
     title: "Blood Shortage Survey and Dashboard",
     tech: ["React.js", "Node.js", "MongoDB"],
     description:
